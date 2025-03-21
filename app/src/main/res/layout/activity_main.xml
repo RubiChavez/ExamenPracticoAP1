@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="60sp"
             android:gravity="center"
-            android:text="Empresa Chavez S.A. de C.V."
+            android:text="Universidad Chavez S.A. de C.V."
             android:textSize="30sp" />
 
         <ImageView
